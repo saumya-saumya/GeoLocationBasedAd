@@ -4,7 +4,7 @@ This project involves geo location tracking and disaplying advertisement dependi
 We have used below libraries in this project
 * pandas
 * numPy
-![alt text](https://github.com/saumya-saumya/GeoLocationBasedAd/edit/master/CAPTURE.png)
+![alt text](https://github.com/saumya-saumya/GeoLocationBasedAd/blob/master/CAPTURE.png)
 
 Understanding Data:
 This process started with the Collection of data related to how much they spent on advertising and marketing. After understanding and reading various details we understood the advertising cost is location dependent. The dataset of the users is collected from the google link provided, the application dataset with its attribute was found on google store dataset. After which we contacted a company to give us the bidding data, hence they provided us with the sample data because of their policy.
